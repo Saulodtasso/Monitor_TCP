@@ -1,0 +1,25 @@
+# Arquivos e diretórios específicos do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente virtual
+venv/
+env/
+build/
+dist/
+*.env
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos específicos do IDE/editor de texto
+.vscode/
+.idea/
+
+# Arquivo de log
+*.log
+
+*.spec

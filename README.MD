@@ -90,7 +90,7 @@ python main.py
 ### Estrutura do Projeto
 
 - `main.py`: Script principal que realiza o monitoramento e envio dos dados.
-- `monitor.conf`: Arquivo de configuração com as informações do MQTT, PostgreSQL e portas a serem monitoradas.
+- `config.ini`: Arquivo de configuração com as informações do MQTT, PostgreSQL e portas a serem monitoradas.
 - `requirements.txt`: Lista de dependências do projeto.
 
 ## Notas

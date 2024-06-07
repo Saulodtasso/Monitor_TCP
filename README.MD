@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 Crie um arquivo chamado `monitor.conf` na raiz do projeto. Este arquivo deve conter as configurações para o MQTT, PostgreSQL e as portas a serem monitoradas.
 
-Exemplo de `monitor.conf`:
+Exemplo de `config.ini`:
 
 ```ini
 [mqtt]

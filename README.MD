@@ -9,8 +9,8 @@ Este projeto monitora as conexões de rede ativas em um sistema Windows, enviand
 Clone o repositório do projeto para sua máquina local.
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DO_REPOSITORIO>
+git clone https://github.com/Saulodtasso/Monitor_TCP.git
+cd Monitor_TCP
 ```
 
 ### 2. Criar e ativar um ambiente virtual

@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ### 4. Preencher o arquivo de configuração
 
-Crie um arquivo chamado `monitor.conf` na raiz do projeto. Este arquivo deve conter as configurações para o MQTT, PostgreSQL e as portas a serem monitoradas.
+Crie um arquivo chamado `config.ini` na raiz do projeto. Este arquivo deve conter as configurações para o MQTT, PostgreSQL e as portas a serem monitoradas.
 
 Exemplo de `config.ini`:
 
@@ -52,7 +52,7 @@ topic = topico/das/conexoes
 [postgres]
 dbname = postgres
 user = postgres
-password = zabbix
+password = postgres
 host = 172.18.224.126
 port = 5432
 
